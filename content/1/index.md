@@ -15,7 +15,7 @@ J'ai aussi adoré dans cette vidéo le livre et sa couverture. Ce genre de déta
 
 Je lis pas mal de bouquins de manière générale et ces derniers temps, je ne sais plus trop quoi lire. Enfin, ça c'était avant de voir [Rebel Book Club](https://rebelbook.club) et ils ont un paquet de [supers lectures](https://rebelbook.club/library/)!
 
-Là j'ai commencé [Utopia for Realists](https://www.librairiesindependantes.com/product/9781408893210/)et pour le moment, le livre délivre bien! Je finis les passages sur le revenu universel et comment réduire ou anéantir la pauvreté dans le monde. Basé sur pas mal d'études, beaucoup de références et une écriture qui passe bien. C'est clairement un cocktail qui marche chez moi.
+Là j'ai commencé [Utopia for Realists](https://www.librairiesindependantes.com/product/9781408893210/) et pour le moment, le livre délivre bien! Je finis les passages sur le revenu universel et comment réduire ou anéantir la pauvreté dans le monde. Basé sur pas mal d'études, beaucoup de références et une écriture qui passe bien. C'est clairement un cocktail qui marche chez moi.
 
 Je pense alterner entre fictions francophones et bouquins anglais sur des sujets variés.
 
