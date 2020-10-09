@@ -1,0 +1,20 @@
+baseURL = "https://newsletter.yannickschutz.com/"
+languageCode = "en-us"
+title = "Yannick Schutz"
+theme = "term"
+enableRobotsTXT = true
+canonifyURLs = false
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+  footer = '🌲 Please consider the environment before printing this website'
+
+[params.social]
+  email = "hello@yannickschutz.com"
+
+[params.fathom]
+  host = "logs.yannickschutz.com"
+  siteID = "CKLNK"
+
+[permalinks]
+  costs = "/:slug"
